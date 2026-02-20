@@ -1,7 +1,6 @@
 # IR Crawler Project
 
-Course: CS4265 – Big Data Analytics  
-Student: J'moi testamark
+
 
 ## Description
 This project implements a simple web crawler and basic statistics analysis.
